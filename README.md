@@ -1,4 +1,15 @@
-# Hi, I'm Anshika Kumari.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cute Coding Banner" width="800">
+</p>
+
+<h1 align="center">Hey there 👋, I'm Anshika!</h1>
+<h3 align="center">🚀 2nd-year CS Student | 💻 Full-Stack Developer in Progress | 🤖 AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F700FF&width=435&lines=Passionate+about+coding+and+learning.;Building+cool+web+apps.;Exploring+the+world+of+tech." alt="Typing SVG" />
+</p>
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshikaKumari21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
